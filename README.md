@@ -34,6 +34,11 @@ Before you begin, ensure you have Node.js and npm installed on your system.
 | GET    | /api/status   | Check server status       |
 | POST   | /api/sync     | Sync data with the server |
 
+## Database Support
+| Sql Server | Postgre Sql | Oracle | MySql | MariaDb | SQLite | MongoDb |
+| --- | --- | --- | --- | --- | --- | --- |
+| In progress | Todo | Todo | Todo | Todo | Todo | Todo |
+
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or suggestions.
 
