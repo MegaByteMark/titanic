@@ -2,11 +2,11 @@
 Why is it called Titanic?
 Because it ~~sinks~~ syncs.
 
-Titanic is an offline database sync framework. The framework is designed to support offline synchronization across multiple platforms, including Windows, Linux, macOS, Android, iOS, and web.
+Titanic is an offline database sync framework. The framework is designed to support offline synchronisation across multiple platforms, including Windows, Linux, macOS, Android, iOS, and web.
 
 ## Features
 
-- **Cross Platform**: Designed to work with any platform, if ot can run Node.js, it can run Titanic.
+- **Cross Platform**: Designed to work with any platform, if it can run Node.js, it can run Titanic.
 - **Database Agnostic**: Designed to work with all mainstream database engines, relational and document.
 
 ## Getting Started
