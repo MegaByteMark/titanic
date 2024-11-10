@@ -1,15 +1,18 @@
 # Titanic - Server Side Component
+Why is it called Titanic?
+Because it ~~sinks~~ syncs.
 
-Titanic is a server-side component of an offline database sync framework named Titanic (because it syncs). This component is written in Node.js and provides an API using Express.js. The framework is designed to support offline synchronization across multiple platforms, including Windows, Linux, macOS, Android, iOS, and web.
+Titanic is an offline database sync framework. The framework is designed to support offline synchronization across multiple platforms, including Windows, Linux, macOS, Android, iOS, and web.
 
 ## Features
 
-- **Node.js**: Built with Node.js for scalable and efficient server-side operations.
-- **Express.js API**: Provides a robust and flexible API for managing data synchronization.
-- **Cross-Platform**: Designed to work with an SDK component (likely a separate repository) that enables offline sync on various platforms.
-- **Offline Sync**: Ensures data consistency and availability even when the client is offline.
+- **Cross Platform**: Designed to work with any platform, if ot can run Node.js, it can run Titanic.
+- **Database Agnostic**: Designed to work with all mainstream database engines, relational and document.
 
 ## Getting Started
+Todo - environment variables
+Todo - ValKey setup
+Todo - getting started with Database Engines on Docker.
 
 ### Prerequisites
 
