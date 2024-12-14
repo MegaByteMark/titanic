@@ -1,4 +1,7 @@
-# Titanic - Server Side Component
+# titanic
+Cross platform synchronisation API written in Go to provide a lightweight relational and non-relational database sync layer.
+
+# Server Side Sync Component
 Why is it called Titanic?
 Because it ~~sinks~~ syncs.
 
